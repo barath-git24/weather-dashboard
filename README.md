@@ -12,7 +12,7 @@ A **modern and responsive Weather Dashboard** built with **React** and **Axios**
 - Fully **responsive** layout for desktop, tablet, and mobile
 
 ##Demo
-![output image](public/Weather%20dashboard.png)
+![output image](myapp/public/Weather%20dashboard.png)
 ## Technologies Used
 -HTML
 -CSS
